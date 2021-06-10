@@ -1,0 +1,10 @@
+version: '3.3'
+services: 
+  json-server:
+    image: vimagick/json-server
+    command: -H 0.0.0.0 -p 3001 -w db.json
+    ports:
+      - "3001:3001"
+    volumes:
+      - .:/data
+    restart: always

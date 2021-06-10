@@ -1,0 +1,9 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta azul",
+      "price": 120.0
+    }
+  ]
+}
