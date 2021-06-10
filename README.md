@@ -12,7 +12,13 @@
    3 - Abra o browser e acesse: [http://0.0.0.0:3001/products](http://0.0.0.0:3001/products)  
      
    
-   Na imagem tem dois endpoit, products e rota2.
+   Neste exemplo estamos utilizando o endpoint products, mas isso vai depender de cada projeto.
+   
+   
+   
+   Veja na imagem um exemplo de arquivo .json contendo duas rotas, product e rota2. 
+   
+   Cada chave de uma lista será um endpoint.
    
    ![Screenshot from 2021-06-10 12-56-49](https://user-images.githubusercontent.com/42916479/121558873-6a6e2400-c9ec-11eb-9b93-b51072578744.png)
 
