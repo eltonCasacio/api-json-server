@@ -9,10 +9,13 @@
    
    2 - Execute o comando: `docker-compose up`
    
-   3 - Abra o browser e acesse: [http://0.0.0.0:3001](http://0.0.0.0:3001)  
+   3 - Abra o browser e acesse: [http://0.0.0.0:3001/products](http://0.0.0.0:3001/products)  
      
-   O endpoit é a chave de cada lista do arquivo db.json
    
+   Na imagem tem dois endpoit, products e rota2.
+   
+   ![Screenshot from 2021-06-10 12-56-49](https://user-images.githubusercontent.com/42916479/121558873-6a6e2400-c9ec-11eb-9b93-b51072578744.png)
+
    
 
 
