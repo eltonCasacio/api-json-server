@@ -9,7 +9,11 @@
    
    2 - Execute o comando: `docker-compose up`
    
-   3 - Abra o browser e acesse: [http://0.0.0.0:3001/products](http://0.0.0.0:3001/products)
+   3 - Abra o browser e acesse: [http://0.0.0.0:3001](http://0.0.0.0:3001)  
+     
+   O endpoit é a chave de cada lista do arquivo db.json
+   
+   
 
 
    comando para parar o processo `docker-compose down`
