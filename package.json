@@ -1,0 +1,23 @@
+{
+  "name": "api-json-server",
+  "version": "1.0.0",
+  "description": "API para estudos, testes...",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eltonCasacio/json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eltonCasacio/json-server/issues"
+  },
+  "homepage": "https://github.com/eltonCasacio/json-server#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
